@@ -6,7 +6,7 @@
 
 # LC057 - Jason Adiwijaya 
 React JS - Qualification:
- List Page: HomePage
- Search Page: SearchPage
- Detail Page: DetailPage
- Favorite Page: BookmarksPage
+ * Search Page: SearchPage
+ * List Page: HomePage
+ * Detail Page: DetailPage
+ * Favorite Page: BookmarksPage
