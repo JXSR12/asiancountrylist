@@ -1,0 +1,18 @@
+.detail-container {
+  margin-top: 50px;
+}
+.detail-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 6rem;
+}
+.img-flag {
+  height: 100%;
+}
+.detail-flag {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

@@ -1,0 +1,29 @@
+.item-card {
+  width: 25rem;
+  margin: 20px 40px;
+  height: 100%;
+}
+.item-card-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.item-card-body img {
+  width: 10rem;
+}
+.item-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-header {
+  text-align: center;
+}
+.card-bounds {
+  height: 50vh;
+}
+
+.h-35 {
+  height: 35%;
+}
