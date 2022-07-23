@@ -5,3 +5,8 @@
  https://countries.trevorblades.com/
 
 # LC057 - Jason Adiwijaya 
+# React JS - Qualification:
+# List Page: HomePage
+# Search Page: SearchPage
+# Detail Page: DetailPage
+# Favorite Page: BookmarksPage
